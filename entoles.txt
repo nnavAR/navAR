@@ -1,0 +1,2 @@
+cd usidas/mav/
+venv\Scripts\activate
